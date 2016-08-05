@@ -1,0 +1,33 @@
+_repo: The-Knights-of-the-Cross-or-Krzyzacy--Historical-Romance_9473
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Binion, Samuel Augustus
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '3067'
+    url: http://www.gutenberg.org/2009/agents/3067
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Teutonic Knights -- History -- Fiction'
+- !lcsh 'Poland -- History -- Jagellons, 1386-1572 -- Fiction'
+- GITenberg
+title: 'The Knights of the Cross, or, Krzyzacy: Historical Romance'
+url: http://www.gutenberg.org/ebooks/9473
